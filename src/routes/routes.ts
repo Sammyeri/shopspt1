@@ -1,5 +1,5 @@
 //require the express module
-import express, { application } from "express";
+import express from "express";
 
 //create new router object
 const routes = express.Router();
